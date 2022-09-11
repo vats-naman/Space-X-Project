@@ -1,5 +1,5 @@
 # Space-X-Project
-In this project, I take the role of a data scientist working for a new rocket company 'Space Y' that would like to compete with SpaceX. My job is to determine the price of each launch. I have to do this by gathering information about Space X and creating dashboards for my team. I also determine if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully, I will train a machine learning classification model and use public information to predict if SpaceX will reuse the first stage.
+In this project, I take the role of a data scientist working for a new rocket company 'Space Y' that would like to compete with SpaceX. My job is to determine the price of each launch. I had to do this by gathering information about Space X and creating dashboards for my team. I also determined if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully or not , I trained a machine learning classification model and used public information to predict if the first stage was a success or a failure.
 The Following Steps were followed:
 1) Data Collection through SpaceX API and Webscapping Wikipedia Pages
 2) Data Wrangling
